@@ -1,6 +1,9 @@
 ---
 layout: single
 title:  "bream_smelt 예제입니다. !!!"
+categories: coding
+tag: [python, blog, jekyll]
+toc: true
 ---
 
 ```python

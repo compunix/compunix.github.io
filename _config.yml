@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Do Anything Now"
+title                    : "MINT JAVA"
 title_separator          : "|"
-subtitle                 : "Do what you love what you do!"
+subtitle                 : "AI Meets Robotics, Transforming Worlds."
 name                     : "Genie Kim"
-description              : "There is only one success, to be able to spend your life in your own way."
+description              : "Do Anything Now. Do what you love what you do! "
 url                      : "https://compunix.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Genie Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **AI Creative Innovator**."
+  bio              : "I am a **Creative Innovator**."
   location         : "South Korea"
   email            : "genie.kim.20@gmail.com"
   links:

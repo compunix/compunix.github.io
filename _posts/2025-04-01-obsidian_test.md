@@ -1,9 +1,15 @@
 ---
 layout: single
-title: 옵시디언으로 작성한 테스트 페이지 입니다.
+title: 옵시디언 작성 페이지.
 toc: true
+categories: Make Github Blog
+tag: [python, blog, jekyll]
+toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
+search: true
 ---
-
 
 
 # <center>안녕</center>
